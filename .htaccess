@@ -1,2 +1,2 @@
 RewriteEngine on
-RewriteRule ^server$ http://127.0.0.1 [P,L]
+RewriteRule ^server$ http://185.215.176.135 [P,L]
